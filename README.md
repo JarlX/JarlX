@@ -43,6 +43,6 @@
 
 ###
 
-![Snake animation](https://github.com/{{jarlx}}/{{jarlx}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jarlx/jarlx/blob/output/github-contribution-grid-snake.svg)
 
 ###
